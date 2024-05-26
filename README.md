@@ -2,9 +2,9 @@
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-griebeler-684996264/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriGriebeler&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurigriebeler&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurigriebeler&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias 
 
 <div style="display: inline_block"><br/>
