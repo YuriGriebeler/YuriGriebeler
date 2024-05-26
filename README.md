@@ -1,9 +1,9 @@
 ### Olá meu nome é Yuri
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="height:300px" src="https://github-readme-stats.vercel.app/api?username=yurigriebeler&show_icons=true&theme=onedark" />
+  <img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api?username=yurigriebeler&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" style="height:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurigriebeler&hide=javascript,html" />
+  <img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurigriebeler&hide=javascript,html" />
 </a>
 
 ## Tecnologias 
